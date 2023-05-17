@@ -1,0 +1,9 @@
+{
+    "manifest_version": 3,
+    "name": "Show More",
+    "description": "Show More -- shows the rest of the tweet",
+    "version": "1.0",
+    "action": {
+        "default_popup": "show_more.html"
+    }
+}
